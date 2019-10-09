@@ -9,7 +9,7 @@ import static java.util.Collections.sort;
 public class StudyList {
 
     public static void main(String[] args) {
-	    //Lists - Allows duplicate, ordered
+	    // Lists - Allows duplicate, ordered
         List<Integer> numbers = new ArrayList<>();
         numbers.add(42);
         numbers.add(23);
