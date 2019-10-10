@@ -7,7 +7,7 @@ import static java.util.Collections.sort;
 public class StudySet {
 
     public static void main(String[] args) {
-	    // Lists - Not allows duplicate (unique), unordered
+	    // Sets - Not allows duplicate (unique), unordered
         Set<Integer> numbers = new HashSet<>();
                         // new TreeSet<>((o1,o2)->o2-o1);
         numbers.add(42);
